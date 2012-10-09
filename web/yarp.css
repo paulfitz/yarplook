@@ -1,0 +1,48 @@
+body { 
+  margin: 10px;
+}
+
+#ports { 
+  width: 100px;
+  display: inline-block;
+  margin: 0px;
+  padding: 0px;
+  vertical-align: top;
+}
+
+#port { 
+  width: 300px;
+  display: inline-block;
+  margin: 0px;
+  padding: 0px;
+  vertical-align: top;
+}
+
+.dud { 
+  color: #999;
+}
+
+.dud a:link { 
+  color: #999;
+}
+
+.dud a:visited { 
+  color: #999;
+}
+
+.dud a:hover { 
+  color: #999;
+}
+
+.port-info { 
+  border: 1px dashed red;
+  padding: 10px;
+}
+
+.port-info h3 { 
+  -webkit-margin-before: 0px;
+}
+
+.timestamp { 
+  font-size: 75%;
+}

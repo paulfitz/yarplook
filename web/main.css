@@ -1,0 +1,33 @@
+
+body {
+  background: white; 
+  color: black; 
+  background-image: url('yarp.jpg');
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif;
+  font-size: 300%;
+  color: #339966; 
+}
+
+div { 
+  padding-bottom: 10px; 
+}
+
+a:link{
+  color: #114499;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #114499;
+  text-decoration: none;
+}
+
+a:hover{
+  color: red;
+  text-decoration: none;
+} 
