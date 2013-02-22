@@ -4,7 +4,7 @@ yarplook
 A json-based view of a YARP network.  To use it, start the YARP name
 server as follows:
 
-    yarpserver --web /path/to/web/directory/from/this/repository
+    yarpserver --web /path/to/web/directory/from/this/repository/web
 
 As it starts up, it will tell you something like:
 
